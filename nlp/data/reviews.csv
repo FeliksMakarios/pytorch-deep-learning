@@ -1,0 +1,481 @@
+text,label,split,domain,template_id
+buku ini buruk,0,train,produk,train_0
+buku ini mengecewakan,0,train,produk,train_0
+buku ini tidak baik,0,train,produk,train_0
+buku ini kurang memuaskan,0,train,produk,train_0
+buku ini baik,1,train,produk,train_0
+buku ini memuaskan,1,train,produk,train_0
+buku ini sangat bagus,1,train,produk,train_0
+buku ini tidak mengecewakan,1,train,produk,train_0
+headphone ini buruk,0,train,produk,train_0
+headphone ini mengecewakan,0,train,produk,train_0
+headphone ini tidak baik,0,train,produk,train_0
+headphone ini kurang memuaskan,0,train,produk,train_0
+headphone ini baik,1,train,produk,train_0
+headphone ini memuaskan,1,train,produk,train_0
+headphone ini sangat bagus,1,train,produk,train_0
+headphone ini tidak mengecewakan,1,train,produk,train_0
+tas ini buruk,0,train,produk,train_0
+tas ini mengecewakan,0,train,produk,train_0
+tas ini tidak baik,0,train,produk,train_0
+tas ini kurang memuaskan,0,train,produk,train_0
+tas ini baik,1,train,produk,train_0
+tas ini memuaskan,1,train,produk,train_0
+tas ini sangat bagus,1,train,produk,train_0
+tas ini tidak mengecewakan,1,train,produk,train_0
+menurut saya buku buruk,0,train,produk,train_1
+menurut saya buku mengecewakan,0,train,produk,train_1
+menurut saya buku tidak baik,0,train,produk,train_1
+menurut saya buku kurang memuaskan,0,train,produk,train_1
+menurut saya buku baik,1,train,produk,train_1
+menurut saya buku memuaskan,1,train,produk,train_1
+menurut saya buku sangat bagus,1,train,produk,train_1
+menurut saya buku tidak mengecewakan,1,train,produk,train_1
+menurut saya headphone buruk,0,train,produk,train_1
+menurut saya headphone mengecewakan,0,train,produk,train_1
+menurut saya headphone tidak baik,0,train,produk,train_1
+menurut saya headphone kurang memuaskan,0,train,produk,train_1
+menurut saya headphone baik,1,train,produk,train_1
+menurut saya headphone memuaskan,1,train,produk,train_1
+menurut saya headphone sangat bagus,1,train,produk,train_1
+menurut saya headphone tidak mengecewakan,1,train,produk,train_1
+menurut saya tas buruk,0,train,produk,train_1
+menurut saya tas mengecewakan,0,train,produk,train_1
+menurut saya tas tidak baik,0,train,produk,train_1
+menurut saya tas kurang memuaskan,0,train,produk,train_1
+menurut saya tas baik,1,train,produk,train_1
+menurut saya tas memuaskan,1,train,produk,train_1
+menurut saya tas sangat bagus,1,train,produk,train_1
+menurut saya tas tidak mengecewakan,1,train,produk,train_1
+saya menilai buku ini buruk,0,train,produk,train_2
+saya menilai buku ini mengecewakan,0,train,produk,train_2
+saya menilai buku ini tidak baik,0,train,produk,train_2
+saya menilai buku ini kurang memuaskan,0,train,produk,train_2
+saya menilai buku ini baik,1,train,produk,train_2
+saya menilai buku ini memuaskan,1,train,produk,train_2
+saya menilai buku ini sangat bagus,1,train,produk,train_2
+saya menilai buku ini tidak mengecewakan,1,train,produk,train_2
+saya menilai headphone ini buruk,0,train,produk,train_2
+saya menilai headphone ini mengecewakan,0,train,produk,train_2
+saya menilai headphone ini tidak baik,0,train,produk,train_2
+saya menilai headphone ini kurang memuaskan,0,train,produk,train_2
+saya menilai headphone ini baik,1,train,produk,train_2
+saya menilai headphone ini memuaskan,1,train,produk,train_2
+saya menilai headphone ini sangat bagus,1,train,produk,train_2
+saya menilai headphone ini tidak mengecewakan,1,train,produk,train_2
+saya menilai tas ini buruk,0,train,produk,train_2
+saya menilai tas ini mengecewakan,0,train,produk,train_2
+saya menilai tas ini tidak baik,0,train,produk,train_2
+saya menilai tas ini kurang memuaskan,0,train,produk,train_2
+saya menilai tas ini baik,1,train,produk,train_2
+saya menilai tas ini memuaskan,1,train,produk,train_2
+saya menilai tas ini sangat bagus,1,train,produk,train_2
+saya menilai tas ini tidak mengecewakan,1,train,produk,train_2
+pengalaman dengan buku terasa buruk,0,train,produk,train_3
+pengalaman dengan buku terasa mengecewakan,0,train,produk,train_3
+pengalaman dengan buku terasa tidak baik,0,train,produk,train_3
+pengalaman dengan buku terasa kurang memuaskan,0,train,produk,train_3
+pengalaman dengan buku terasa baik,1,train,produk,train_3
+pengalaman dengan buku terasa memuaskan,1,train,produk,train_3
+pengalaman dengan buku terasa sangat bagus,1,train,produk,train_3
+pengalaman dengan buku terasa tidak mengecewakan,1,train,produk,train_3
+pengalaman dengan headphone terasa buruk,0,train,produk,train_3
+pengalaman dengan headphone terasa mengecewakan,0,train,produk,train_3
+pengalaman dengan headphone terasa tidak baik,0,train,produk,train_3
+pengalaman dengan headphone terasa kurang memuaskan,0,train,produk,train_3
+pengalaman dengan headphone terasa baik,1,train,produk,train_3
+pengalaman dengan headphone terasa memuaskan,1,train,produk,train_3
+pengalaman dengan headphone terasa sangat bagus,1,train,produk,train_3
+pengalaman dengan headphone terasa tidak mengecewakan,1,train,produk,train_3
+pengalaman dengan tas terasa buruk,0,train,produk,train_3
+pengalaman dengan tas terasa mengecewakan,0,train,produk,train_3
+pengalaman dengan tas terasa tidak baik,0,train,produk,train_3
+pengalaman dengan tas terasa kurang memuaskan,0,train,produk,train_3
+pengalaman dengan tas terasa baik,1,train,produk,train_3
+pengalaman dengan tas terasa memuaskan,1,train,produk,train_3
+pengalaman dengan tas terasa sangat bagus,1,train,produk,train_3
+pengalaman dengan tas terasa tidak mengecewakan,1,train,produk,train_3
+buku yang saya coba buruk,0,train,produk,train_4
+buku yang saya coba mengecewakan,0,train,produk,train_4
+buku yang saya coba tidak baik,0,train,produk,train_4
+buku yang saya coba kurang memuaskan,0,train,produk,train_4
+buku yang saya coba baik,1,train,produk,train_4
+buku yang saya coba memuaskan,1,train,produk,train_4
+buku yang saya coba sangat bagus,1,train,produk,train_4
+buku yang saya coba tidak mengecewakan,1,train,produk,train_4
+headphone yang saya coba buruk,0,train,produk,train_4
+headphone yang saya coba mengecewakan,0,train,produk,train_4
+headphone yang saya coba tidak baik,0,train,produk,train_4
+headphone yang saya coba kurang memuaskan,0,train,produk,train_4
+headphone yang saya coba baik,1,train,produk,train_4
+headphone yang saya coba memuaskan,1,train,produk,train_4
+headphone yang saya coba sangat bagus,1,train,produk,train_4
+headphone yang saya coba tidak mengecewakan,1,train,produk,train_4
+tas yang saya coba buruk,0,train,produk,train_4
+tas yang saya coba mengecewakan,0,train,produk,train_4
+tas yang saya coba tidak baik,0,train,produk,train_4
+tas yang saya coba kurang memuaskan,0,train,produk,train_4
+tas yang saya coba baik,1,train,produk,train_4
+tas yang saya coba memuaskan,1,train,produk,train_4
+tas yang saya coba sangat bagus,1,train,produk,train_4
+tas yang saya coba tidak mengecewakan,1,train,produk,train_4
+secara keseluruhan buku buruk,0,train,produk,train_5
+secara keseluruhan buku mengecewakan,0,train,produk,train_5
+secara keseluruhan buku tidak baik,0,train,produk,train_5
+secara keseluruhan buku kurang memuaskan,0,train,produk,train_5
+secara keseluruhan buku baik,1,train,produk,train_5
+secara keseluruhan buku memuaskan,1,train,produk,train_5
+secara keseluruhan buku sangat bagus,1,train,produk,train_5
+secara keseluruhan buku tidak mengecewakan,1,train,produk,train_5
+secara keseluruhan headphone buruk,0,train,produk,train_5
+secara keseluruhan headphone mengecewakan,0,train,produk,train_5
+secara keseluruhan headphone tidak baik,0,train,produk,train_5
+secara keseluruhan headphone kurang memuaskan,0,train,produk,train_5
+secara keseluruhan headphone baik,1,train,produk,train_5
+secara keseluruhan headphone memuaskan,1,train,produk,train_5
+secara keseluruhan headphone sangat bagus,1,train,produk,train_5
+secara keseluruhan headphone tidak mengecewakan,1,train,produk,train_5
+secara keseluruhan tas buruk,0,train,produk,train_5
+secara keseluruhan tas mengecewakan,0,train,produk,train_5
+secara keseluruhan tas tidak baik,0,train,produk,train_5
+secara keseluruhan tas kurang memuaskan,0,train,produk,train_5
+secara keseluruhan tas baik,1,train,produk,train_5
+secara keseluruhan tas memuaskan,1,train,produk,train_5
+secara keseluruhan tas sangat bagus,1,train,produk,train_5
+secara keseluruhan tas tidak mengecewakan,1,train,produk,train_5
+setelah mencoba buku kesan saya buruk,0,val,produk,val_0
+setelah mencoba buku kesan saya mengecewakan,0,val,produk,val_0
+setelah mencoba buku kesan saya tidak baik,0,val,produk,val_0
+setelah mencoba buku kesan saya kurang memuaskan,0,val,produk,val_0
+setelah mencoba buku kesan saya baik,1,val,produk,val_0
+setelah mencoba buku kesan saya memuaskan,1,val,produk,val_0
+setelah mencoba buku kesan saya sangat bagus,1,val,produk,val_0
+setelah mencoba buku kesan saya tidak mengecewakan,1,val,produk,val_0
+setelah mencoba headphone kesan saya buruk,0,val,produk,val_0
+setelah mencoba headphone kesan saya mengecewakan,0,val,produk,val_0
+setelah mencoba headphone kesan saya tidak baik,0,val,produk,val_0
+setelah mencoba headphone kesan saya kurang memuaskan,0,val,produk,val_0
+setelah mencoba headphone kesan saya baik,1,val,produk,val_0
+setelah mencoba headphone kesan saya memuaskan,1,val,produk,val_0
+setelah mencoba headphone kesan saya sangat bagus,1,val,produk,val_0
+setelah mencoba headphone kesan saya tidak mengecewakan,1,val,produk,val_0
+setelah mencoba tas kesan saya buruk,0,val,produk,val_0
+setelah mencoba tas kesan saya mengecewakan,0,val,produk,val_0
+setelah mencoba tas kesan saya tidak baik,0,val,produk,val_0
+setelah mencoba tas kesan saya kurang memuaskan,0,val,produk,val_0
+setelah mencoba tas kesan saya baik,1,val,produk,val_0
+setelah mencoba tas kesan saya memuaskan,1,val,produk,val_0
+setelah mencoba tas kesan saya sangat bagus,1,val,produk,val_0
+setelah mencoba tas kesan saya tidak mengecewakan,1,val,produk,val_0
+penilaian saya untuk buku adalah buruk,0,val,produk,val_1
+penilaian saya untuk buku adalah mengecewakan,0,val,produk,val_1
+penilaian saya untuk buku adalah tidak baik,0,val,produk,val_1
+penilaian saya untuk buku adalah kurang memuaskan,0,val,produk,val_1
+penilaian saya untuk buku adalah baik,1,val,produk,val_1
+penilaian saya untuk buku adalah memuaskan,1,val,produk,val_1
+penilaian saya untuk buku adalah sangat bagus,1,val,produk,val_1
+penilaian saya untuk buku adalah tidak mengecewakan,1,val,produk,val_1
+penilaian saya untuk headphone adalah buruk,0,val,produk,val_1
+penilaian saya untuk headphone adalah mengecewakan,0,val,produk,val_1
+penilaian saya untuk headphone adalah tidak baik,0,val,produk,val_1
+penilaian saya untuk headphone adalah kurang memuaskan,0,val,produk,val_1
+penilaian saya untuk headphone adalah baik,1,val,produk,val_1
+penilaian saya untuk headphone adalah memuaskan,1,val,produk,val_1
+penilaian saya untuk headphone adalah sangat bagus,1,val,produk,val_1
+penilaian saya untuk headphone adalah tidak mengecewakan,1,val,produk,val_1
+penilaian saya untuk tas adalah buruk,0,val,produk,val_1
+penilaian saya untuk tas adalah mengecewakan,0,val,produk,val_1
+penilaian saya untuk tas adalah tidak baik,0,val,produk,val_1
+penilaian saya untuk tas adalah kurang memuaskan,0,val,produk,val_1
+penilaian saya untuk tas adalah baik,1,val,produk,val_1
+penilaian saya untuk tas adalah memuaskan,1,val,produk,val_1
+penilaian saya untuk tas adalah sangat bagus,1,val,produk,val_1
+penilaian saya untuk tas adalah tidak mengecewakan,1,val,produk,val_1
+bagi saya kualitas buku buruk,0,test,produk,test_0
+bagi saya kualitas buku mengecewakan,0,test,produk,test_0
+bagi saya kualitas buku tidak baik,0,test,produk,test_0
+bagi saya kualitas buku kurang memuaskan,0,test,produk,test_0
+bagi saya kualitas buku baik,1,test,produk,test_0
+bagi saya kualitas buku memuaskan,1,test,produk,test_0
+bagi saya kualitas buku sangat bagus,1,test,produk,test_0
+bagi saya kualitas buku tidak mengecewakan,1,test,produk,test_0
+bagi saya kualitas headphone buruk,0,test,produk,test_0
+bagi saya kualitas headphone mengecewakan,0,test,produk,test_0
+bagi saya kualitas headphone tidak baik,0,test,produk,test_0
+bagi saya kualitas headphone kurang memuaskan,0,test,produk,test_0
+bagi saya kualitas headphone baik,1,test,produk,test_0
+bagi saya kualitas headphone memuaskan,1,test,produk,test_0
+bagi saya kualitas headphone sangat bagus,1,test,produk,test_0
+bagi saya kualitas headphone tidak mengecewakan,1,test,produk,test_0
+bagi saya kualitas tas buruk,0,test,produk,test_0
+bagi saya kualitas tas mengecewakan,0,test,produk,test_0
+bagi saya kualitas tas tidak baik,0,test,produk,test_0
+bagi saya kualitas tas kurang memuaskan,0,test,produk,test_0
+bagi saya kualitas tas baik,1,test,produk,test_0
+bagi saya kualitas tas memuaskan,1,test,produk,test_0
+bagi saya kualitas tas sangat bagus,1,test,produk,test_0
+bagi saya kualitas tas tidak mengecewakan,1,test,produk,test_0
+ulasan saya tentang buku cukup jelas yaitu buruk,0,test,produk,test_1
+ulasan saya tentang buku cukup jelas yaitu mengecewakan,0,test,produk,test_1
+ulasan saya tentang buku cukup jelas yaitu tidak baik,0,test,produk,test_1
+ulasan saya tentang buku cukup jelas yaitu kurang memuaskan,0,test,produk,test_1
+ulasan saya tentang buku cukup jelas yaitu baik,1,test,produk,test_1
+ulasan saya tentang buku cukup jelas yaitu memuaskan,1,test,produk,test_1
+ulasan saya tentang buku cukup jelas yaitu sangat bagus,1,test,produk,test_1
+ulasan saya tentang buku cukup jelas yaitu tidak mengecewakan,1,test,produk,test_1
+ulasan saya tentang headphone cukup jelas yaitu buruk,0,test,produk,test_1
+ulasan saya tentang headphone cukup jelas yaitu mengecewakan,0,test,produk,test_1
+ulasan saya tentang headphone cukup jelas yaitu tidak baik,0,test,produk,test_1
+ulasan saya tentang headphone cukup jelas yaitu kurang memuaskan,0,test,produk,test_1
+ulasan saya tentang headphone cukup jelas yaitu baik,1,test,produk,test_1
+ulasan saya tentang headphone cukup jelas yaitu memuaskan,1,test,produk,test_1
+ulasan saya tentang headphone cukup jelas yaitu sangat bagus,1,test,produk,test_1
+ulasan saya tentang headphone cukup jelas yaitu tidak mengecewakan,1,test,produk,test_1
+ulasan saya tentang tas cukup jelas yaitu buruk,0,test,produk,test_1
+ulasan saya tentang tas cukup jelas yaitu mengecewakan,0,test,produk,test_1
+ulasan saya tentang tas cukup jelas yaitu tidak baik,0,test,produk,test_1
+ulasan saya tentang tas cukup jelas yaitu kurang memuaskan,0,test,produk,test_1
+ulasan saya tentang tas cukup jelas yaitu baik,1,test,produk,test_1
+ulasan saya tentang tas cukup jelas yaitu memuaskan,1,test,produk,test_1
+ulasan saya tentang tas cukup jelas yaitu sangat bagus,1,test,produk,test_1
+ulasan saya tentang tas cukup jelas yaitu tidak mengecewakan,1,test,produk,test_1
+pengiriman ini buruk,0,train,layanan,train_0
+pengiriman ini mengecewakan,0,train,layanan,train_0
+pengiriman ini tidak baik,0,train,layanan,train_0
+pengiriman ini kurang memuaskan,0,train,layanan,train_0
+pengiriman ini baik,1,train,layanan,train_0
+pengiriman ini memuaskan,1,train,layanan,train_0
+pengiriman ini sangat bagus,1,train,layanan,train_0
+pengiriman ini tidak mengecewakan,1,train,layanan,train_0
+pelayanan ini buruk,0,train,layanan,train_0
+pelayanan ini mengecewakan,0,train,layanan,train_0
+pelayanan ini tidak baik,0,train,layanan,train_0
+pelayanan ini kurang memuaskan,0,train,layanan,train_0
+pelayanan ini baik,1,train,layanan,train_0
+pelayanan ini memuaskan,1,train,layanan,train_0
+pelayanan ini sangat bagus,1,train,layanan,train_0
+pelayanan ini tidak mengecewakan,1,train,layanan,train_0
+pemesanan ini buruk,0,train,layanan,train_0
+pemesanan ini mengecewakan,0,train,layanan,train_0
+pemesanan ini tidak baik,0,train,layanan,train_0
+pemesanan ini kurang memuaskan,0,train,layanan,train_0
+pemesanan ini baik,1,train,layanan,train_0
+pemesanan ini memuaskan,1,train,layanan,train_0
+pemesanan ini sangat bagus,1,train,layanan,train_0
+pemesanan ini tidak mengecewakan,1,train,layanan,train_0
+menurut saya pengiriman buruk,0,train,layanan,train_1
+menurut saya pengiriman mengecewakan,0,train,layanan,train_1
+menurut saya pengiriman tidak baik,0,train,layanan,train_1
+menurut saya pengiriman kurang memuaskan,0,train,layanan,train_1
+menurut saya pengiriman baik,1,train,layanan,train_1
+menurut saya pengiriman memuaskan,1,train,layanan,train_1
+menurut saya pengiriman sangat bagus,1,train,layanan,train_1
+menurut saya pengiriman tidak mengecewakan,1,train,layanan,train_1
+menurut saya pelayanan buruk,0,train,layanan,train_1
+menurut saya pelayanan mengecewakan,0,train,layanan,train_1
+menurut saya pelayanan tidak baik,0,train,layanan,train_1
+menurut saya pelayanan kurang memuaskan,0,train,layanan,train_1
+menurut saya pelayanan baik,1,train,layanan,train_1
+menurut saya pelayanan memuaskan,1,train,layanan,train_1
+menurut saya pelayanan sangat bagus,1,train,layanan,train_1
+menurut saya pelayanan tidak mengecewakan,1,train,layanan,train_1
+menurut saya pemesanan buruk,0,train,layanan,train_1
+menurut saya pemesanan mengecewakan,0,train,layanan,train_1
+menurut saya pemesanan tidak baik,0,train,layanan,train_1
+menurut saya pemesanan kurang memuaskan,0,train,layanan,train_1
+menurut saya pemesanan baik,1,train,layanan,train_1
+menurut saya pemesanan memuaskan,1,train,layanan,train_1
+menurut saya pemesanan sangat bagus,1,train,layanan,train_1
+menurut saya pemesanan tidak mengecewakan,1,train,layanan,train_1
+saya menilai pengiriman ini buruk,0,train,layanan,train_2
+saya menilai pengiriman ini mengecewakan,0,train,layanan,train_2
+saya menilai pengiriman ini tidak baik,0,train,layanan,train_2
+saya menilai pengiriman ini kurang memuaskan,0,train,layanan,train_2
+saya menilai pengiriman ini baik,1,train,layanan,train_2
+saya menilai pengiriman ini memuaskan,1,train,layanan,train_2
+saya menilai pengiriman ini sangat bagus,1,train,layanan,train_2
+saya menilai pengiriman ini tidak mengecewakan,1,train,layanan,train_2
+saya menilai pelayanan ini buruk,0,train,layanan,train_2
+saya menilai pelayanan ini mengecewakan,0,train,layanan,train_2
+saya menilai pelayanan ini tidak baik,0,train,layanan,train_2
+saya menilai pelayanan ini kurang memuaskan,0,train,layanan,train_2
+saya menilai pelayanan ini baik,1,train,layanan,train_2
+saya menilai pelayanan ini memuaskan,1,train,layanan,train_2
+saya menilai pelayanan ini sangat bagus,1,train,layanan,train_2
+saya menilai pelayanan ini tidak mengecewakan,1,train,layanan,train_2
+saya menilai pemesanan ini buruk,0,train,layanan,train_2
+saya menilai pemesanan ini mengecewakan,0,train,layanan,train_2
+saya menilai pemesanan ini tidak baik,0,train,layanan,train_2
+saya menilai pemesanan ini kurang memuaskan,0,train,layanan,train_2
+saya menilai pemesanan ini baik,1,train,layanan,train_2
+saya menilai pemesanan ini memuaskan,1,train,layanan,train_2
+saya menilai pemesanan ini sangat bagus,1,train,layanan,train_2
+saya menilai pemesanan ini tidak mengecewakan,1,train,layanan,train_2
+pengalaman dengan pengiriman terasa buruk,0,train,layanan,train_3
+pengalaman dengan pengiriman terasa mengecewakan,0,train,layanan,train_3
+pengalaman dengan pengiriman terasa tidak baik,0,train,layanan,train_3
+pengalaman dengan pengiriman terasa kurang memuaskan,0,train,layanan,train_3
+pengalaman dengan pengiriman terasa baik,1,train,layanan,train_3
+pengalaman dengan pengiriman terasa memuaskan,1,train,layanan,train_3
+pengalaman dengan pengiriman terasa sangat bagus,1,train,layanan,train_3
+pengalaman dengan pengiriman terasa tidak mengecewakan,1,train,layanan,train_3
+pengalaman dengan pelayanan terasa buruk,0,train,layanan,train_3
+pengalaman dengan pelayanan terasa mengecewakan,0,train,layanan,train_3
+pengalaman dengan pelayanan terasa tidak baik,0,train,layanan,train_3
+pengalaman dengan pelayanan terasa kurang memuaskan,0,train,layanan,train_3
+pengalaman dengan pelayanan terasa baik,1,train,layanan,train_3
+pengalaman dengan pelayanan terasa memuaskan,1,train,layanan,train_3
+pengalaman dengan pelayanan terasa sangat bagus,1,train,layanan,train_3
+pengalaman dengan pelayanan terasa tidak mengecewakan,1,train,layanan,train_3
+pengalaman dengan pemesanan terasa buruk,0,train,layanan,train_3
+pengalaman dengan pemesanan terasa mengecewakan,0,train,layanan,train_3
+pengalaman dengan pemesanan terasa tidak baik,0,train,layanan,train_3
+pengalaman dengan pemesanan terasa kurang memuaskan,0,train,layanan,train_3
+pengalaman dengan pemesanan terasa baik,1,train,layanan,train_3
+pengalaman dengan pemesanan terasa memuaskan,1,train,layanan,train_3
+pengalaman dengan pemesanan terasa sangat bagus,1,train,layanan,train_3
+pengalaman dengan pemesanan terasa tidak mengecewakan,1,train,layanan,train_3
+pengiriman yang saya coba buruk,0,train,layanan,train_4
+pengiriman yang saya coba mengecewakan,0,train,layanan,train_4
+pengiriman yang saya coba tidak baik,0,train,layanan,train_4
+pengiriman yang saya coba kurang memuaskan,0,train,layanan,train_4
+pengiriman yang saya coba baik,1,train,layanan,train_4
+pengiriman yang saya coba memuaskan,1,train,layanan,train_4
+pengiriman yang saya coba sangat bagus,1,train,layanan,train_4
+pengiriman yang saya coba tidak mengecewakan,1,train,layanan,train_4
+pelayanan yang saya coba buruk,0,train,layanan,train_4
+pelayanan yang saya coba mengecewakan,0,train,layanan,train_4
+pelayanan yang saya coba tidak baik,0,train,layanan,train_4
+pelayanan yang saya coba kurang memuaskan,0,train,layanan,train_4
+pelayanan yang saya coba baik,1,train,layanan,train_4
+pelayanan yang saya coba memuaskan,1,train,layanan,train_4
+pelayanan yang saya coba sangat bagus,1,train,layanan,train_4
+pelayanan yang saya coba tidak mengecewakan,1,train,layanan,train_4
+pemesanan yang saya coba buruk,0,train,layanan,train_4
+pemesanan yang saya coba mengecewakan,0,train,layanan,train_4
+pemesanan yang saya coba tidak baik,0,train,layanan,train_4
+pemesanan yang saya coba kurang memuaskan,0,train,layanan,train_4
+pemesanan yang saya coba baik,1,train,layanan,train_4
+pemesanan yang saya coba memuaskan,1,train,layanan,train_4
+pemesanan yang saya coba sangat bagus,1,train,layanan,train_4
+pemesanan yang saya coba tidak mengecewakan,1,train,layanan,train_4
+secara keseluruhan pengiriman buruk,0,train,layanan,train_5
+secara keseluruhan pengiriman mengecewakan,0,train,layanan,train_5
+secara keseluruhan pengiriman tidak baik,0,train,layanan,train_5
+secara keseluruhan pengiriman kurang memuaskan,0,train,layanan,train_5
+secara keseluruhan pengiriman baik,1,train,layanan,train_5
+secara keseluruhan pengiriman memuaskan,1,train,layanan,train_5
+secara keseluruhan pengiriman sangat bagus,1,train,layanan,train_5
+secara keseluruhan pengiriman tidak mengecewakan,1,train,layanan,train_5
+secara keseluruhan pelayanan buruk,0,train,layanan,train_5
+secara keseluruhan pelayanan mengecewakan,0,train,layanan,train_5
+secara keseluruhan pelayanan tidak baik,0,train,layanan,train_5
+secara keseluruhan pelayanan kurang memuaskan,0,train,layanan,train_5
+secara keseluruhan pelayanan baik,1,train,layanan,train_5
+secara keseluruhan pelayanan memuaskan,1,train,layanan,train_5
+secara keseluruhan pelayanan sangat bagus,1,train,layanan,train_5
+secara keseluruhan pelayanan tidak mengecewakan,1,train,layanan,train_5
+secara keseluruhan pemesanan buruk,0,train,layanan,train_5
+secara keseluruhan pemesanan mengecewakan,0,train,layanan,train_5
+secara keseluruhan pemesanan tidak baik,0,train,layanan,train_5
+secara keseluruhan pemesanan kurang memuaskan,0,train,layanan,train_5
+secara keseluruhan pemesanan baik,1,train,layanan,train_5
+secara keseluruhan pemesanan memuaskan,1,train,layanan,train_5
+secara keseluruhan pemesanan sangat bagus,1,train,layanan,train_5
+secara keseluruhan pemesanan tidak mengecewakan,1,train,layanan,train_5
+setelah mencoba pengiriman kesan saya buruk,0,val,layanan,val_0
+setelah mencoba pengiriman kesan saya mengecewakan,0,val,layanan,val_0
+setelah mencoba pengiriman kesan saya tidak baik,0,val,layanan,val_0
+setelah mencoba pengiriman kesan saya kurang memuaskan,0,val,layanan,val_0
+setelah mencoba pengiriman kesan saya baik,1,val,layanan,val_0
+setelah mencoba pengiriman kesan saya memuaskan,1,val,layanan,val_0
+setelah mencoba pengiriman kesan saya sangat bagus,1,val,layanan,val_0
+setelah mencoba pengiriman kesan saya tidak mengecewakan,1,val,layanan,val_0
+setelah mencoba pelayanan kesan saya buruk,0,val,layanan,val_0
+setelah mencoba pelayanan kesan saya mengecewakan,0,val,layanan,val_0
+setelah mencoba pelayanan kesan saya tidak baik,0,val,layanan,val_0
+setelah mencoba pelayanan kesan saya kurang memuaskan,0,val,layanan,val_0
+setelah mencoba pelayanan kesan saya baik,1,val,layanan,val_0
+setelah mencoba pelayanan kesan saya memuaskan,1,val,layanan,val_0
+setelah mencoba pelayanan kesan saya sangat bagus,1,val,layanan,val_0
+setelah mencoba pelayanan kesan saya tidak mengecewakan,1,val,layanan,val_0
+setelah mencoba pemesanan kesan saya buruk,0,val,layanan,val_0
+setelah mencoba pemesanan kesan saya mengecewakan,0,val,layanan,val_0
+setelah mencoba pemesanan kesan saya tidak baik,0,val,layanan,val_0
+setelah mencoba pemesanan kesan saya kurang memuaskan,0,val,layanan,val_0
+setelah mencoba pemesanan kesan saya baik,1,val,layanan,val_0
+setelah mencoba pemesanan kesan saya memuaskan,1,val,layanan,val_0
+setelah mencoba pemesanan kesan saya sangat bagus,1,val,layanan,val_0
+setelah mencoba pemesanan kesan saya tidak mengecewakan,1,val,layanan,val_0
+penilaian saya untuk pengiriman adalah buruk,0,val,layanan,val_1
+penilaian saya untuk pengiriman adalah mengecewakan,0,val,layanan,val_1
+penilaian saya untuk pengiriman adalah tidak baik,0,val,layanan,val_1
+penilaian saya untuk pengiriman adalah kurang memuaskan,0,val,layanan,val_1
+penilaian saya untuk pengiriman adalah baik,1,val,layanan,val_1
+penilaian saya untuk pengiriman adalah memuaskan,1,val,layanan,val_1
+penilaian saya untuk pengiriman adalah sangat bagus,1,val,layanan,val_1
+penilaian saya untuk pengiriman adalah tidak mengecewakan,1,val,layanan,val_1
+penilaian saya untuk pelayanan adalah buruk,0,val,layanan,val_1
+penilaian saya untuk pelayanan adalah mengecewakan,0,val,layanan,val_1
+penilaian saya untuk pelayanan adalah tidak baik,0,val,layanan,val_1
+penilaian saya untuk pelayanan adalah kurang memuaskan,0,val,layanan,val_1
+penilaian saya untuk pelayanan adalah baik,1,val,layanan,val_1
+penilaian saya untuk pelayanan adalah memuaskan,1,val,layanan,val_1
+penilaian saya untuk pelayanan adalah sangat bagus,1,val,layanan,val_1
+penilaian saya untuk pelayanan adalah tidak mengecewakan,1,val,layanan,val_1
+penilaian saya untuk pemesanan adalah buruk,0,val,layanan,val_1
+penilaian saya untuk pemesanan adalah mengecewakan,0,val,layanan,val_1
+penilaian saya untuk pemesanan adalah tidak baik,0,val,layanan,val_1
+penilaian saya untuk pemesanan adalah kurang memuaskan,0,val,layanan,val_1
+penilaian saya untuk pemesanan adalah baik,1,val,layanan,val_1
+penilaian saya untuk pemesanan adalah memuaskan,1,val,layanan,val_1
+penilaian saya untuk pemesanan adalah sangat bagus,1,val,layanan,val_1
+penilaian saya untuk pemesanan adalah tidak mengecewakan,1,val,layanan,val_1
+bagi saya kualitas pengiriman buruk,0,test,layanan,test_0
+bagi saya kualitas pengiriman mengecewakan,0,test,layanan,test_0
+bagi saya kualitas pengiriman tidak baik,0,test,layanan,test_0
+bagi saya kualitas pengiriman kurang memuaskan,0,test,layanan,test_0
+bagi saya kualitas pengiriman baik,1,test,layanan,test_0
+bagi saya kualitas pengiriman memuaskan,1,test,layanan,test_0
+bagi saya kualitas pengiriman sangat bagus,1,test,layanan,test_0
+bagi saya kualitas pengiriman tidak mengecewakan,1,test,layanan,test_0
+bagi saya kualitas pelayanan buruk,0,test,layanan,test_0
+bagi saya kualitas pelayanan mengecewakan,0,test,layanan,test_0
+bagi saya kualitas pelayanan tidak baik,0,test,layanan,test_0
+bagi saya kualitas pelayanan kurang memuaskan,0,test,layanan,test_0
+bagi saya kualitas pelayanan baik,1,test,layanan,test_0
+bagi saya kualitas pelayanan memuaskan,1,test,layanan,test_0
+bagi saya kualitas pelayanan sangat bagus,1,test,layanan,test_0
+bagi saya kualitas pelayanan tidak mengecewakan,1,test,layanan,test_0
+bagi saya kualitas pemesanan buruk,0,test,layanan,test_0
+bagi saya kualitas pemesanan mengecewakan,0,test,layanan,test_0
+bagi saya kualitas pemesanan tidak baik,0,test,layanan,test_0
+bagi saya kualitas pemesanan kurang memuaskan,0,test,layanan,test_0
+bagi saya kualitas pemesanan baik,1,test,layanan,test_0
+bagi saya kualitas pemesanan memuaskan,1,test,layanan,test_0
+bagi saya kualitas pemesanan sangat bagus,1,test,layanan,test_0
+bagi saya kualitas pemesanan tidak mengecewakan,1,test,layanan,test_0
+ulasan saya tentang pengiriman cukup jelas yaitu buruk,0,test,layanan,test_1
+ulasan saya tentang pengiriman cukup jelas yaitu mengecewakan,0,test,layanan,test_1
+ulasan saya tentang pengiriman cukup jelas yaitu tidak baik,0,test,layanan,test_1
+ulasan saya tentang pengiriman cukup jelas yaitu kurang memuaskan,0,test,layanan,test_1
+ulasan saya tentang pengiriman cukup jelas yaitu baik,1,test,layanan,test_1
+ulasan saya tentang pengiriman cukup jelas yaitu memuaskan,1,test,layanan,test_1
+ulasan saya tentang pengiriman cukup jelas yaitu sangat bagus,1,test,layanan,test_1
+ulasan saya tentang pengiriman cukup jelas yaitu tidak mengecewakan,1,test,layanan,test_1
+ulasan saya tentang pelayanan cukup jelas yaitu buruk,0,test,layanan,test_1
+ulasan saya tentang pelayanan cukup jelas yaitu mengecewakan,0,test,layanan,test_1
+ulasan saya tentang pelayanan cukup jelas yaitu tidak baik,0,test,layanan,test_1
+ulasan saya tentang pelayanan cukup jelas yaitu kurang memuaskan,0,test,layanan,test_1
+ulasan saya tentang pelayanan cukup jelas yaitu baik,1,test,layanan,test_1
+ulasan saya tentang pelayanan cukup jelas yaitu memuaskan,1,test,layanan,test_1
+ulasan saya tentang pelayanan cukup jelas yaitu sangat bagus,1,test,layanan,test_1
+ulasan saya tentang pelayanan cukup jelas yaitu tidak mengecewakan,1,test,layanan,test_1
+ulasan saya tentang pemesanan cukup jelas yaitu buruk,0,test,layanan,test_1
+ulasan saya tentang pemesanan cukup jelas yaitu mengecewakan,0,test,layanan,test_1
+ulasan saya tentang pemesanan cukup jelas yaitu tidak baik,0,test,layanan,test_1
+ulasan saya tentang pemesanan cukup jelas yaitu kurang memuaskan,0,test,layanan,test_1
+ulasan saya tentang pemesanan cukup jelas yaitu baik,1,test,layanan,test_1
+ulasan saya tentang pemesanan cukup jelas yaitu memuaskan,1,test,layanan,test_1
+ulasan saya tentang pemesanan cukup jelas yaitu sangat bagus,1,test,layanan,test_1
+ulasan saya tentang pemesanan cukup jelas yaitu tidak mengecewakan,1,test,layanan,test_1
