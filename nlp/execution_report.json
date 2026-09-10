@@ -1,0 +1,84 @@
+[
+  {
+    "file": "00_tensor_teks.ipynb",
+    "status": "passed",
+    "seconds": 3.14,
+    "method": "fresh Python process, sequential code-cell execution",
+    "code_cells": 9
+  },
+  {
+    "file": "01_alur_pelatihan.ipynb",
+    "status": "passed",
+    "seconds": 3.14,
+    "method": "fresh Python process, sequential code-cell execution",
+    "code_cells": 8
+  },
+  {
+    "file": "02_klasifikasi_teks.ipynb",
+    "status": "passed",
+    "seconds": 3.48,
+    "method": "fresh Python process, sequential code-cell execution",
+    "code_cells": 8
+  },
+  {
+    "file": "03_rnn_lstm_gru.ipynb",
+    "status": "passed",
+    "seconds": 4.6,
+    "method": "fresh Python process, sequential code-cell execution",
+    "code_cells": 7
+  },
+  {
+    "file": "04_dataset_teks.ipynb",
+    "status": "passed",
+    "seconds": 1.84,
+    "method": "fresh Python process, sequential code-cell execution",
+    "code_cells": 8
+  },
+  {
+    "file": "05_kode_modular.ipynb",
+    "status": "passed",
+    "seconds": 5.21,
+    "method": "fresh Python process, sequential code-cell execution",
+    "code_cells": 7
+  },
+  {
+    "file": "06_transfer_learning.ipynb",
+    "status": "passed",
+    "seconds": 3.85,
+    "method": "fresh Python process, sequential code-cell execution",
+    "code_cells": 6
+  },
+  {
+    "file": "07_pencatatan_eksperimen.ipynb",
+    "status": "passed",
+    "seconds": 5.25,
+    "method": "fresh Python process, sequential code-cell execution",
+    "code_cells": 6
+  },
+  {
+    "file": "08_attention_transformer.ipynb",
+    "status": "passed",
+    "seconds": 3.93,
+    "method": "fresh Python process, sequential code-cell execution",
+    "code_cells": 7
+  },
+  {
+    "file": "09_aplikasi_sentimen.ipynb",
+    "status": "passed",
+    "seconds": 3.69,
+    "method": "fresh Python process, sequential code-cell execution",
+    "code_cells": 6
+  },
+  {
+    "file": "10_bert_data_nyata.ipynb",
+    "status": "passed",
+    "code_cells": 7,
+    "method": "fresh Python process, sequential code-cell execution",
+    "data": "SST-2 downloaded from Hugging Face",
+    "pretrained_model": "prajjwal1/bert-tiny",
+    "train_examples": 512,
+    "validation_examples": 128,
+    "local_holdout_examples": 128,
+    "epochs": 2
+  }
+]

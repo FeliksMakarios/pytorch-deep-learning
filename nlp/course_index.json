@@ -1,0 +1,57 @@
+[
+  {
+    "file": "notebooks/00_tensor_teks.ipynb",
+    "title": "00. Dasar PyTorch melalui teks",
+    "cells": 23
+  },
+  {
+    "file": "notebooks/01_alur_pelatihan.ipynb",
+    "title": "01. Alur pelatihan klasifikasi sentimen",
+    "cells": 21
+  },
+  {
+    "file": "notebooks/02_klasifikasi_teks.ipynb",
+    "title": "02. Klasifikasi teks dengan embedding",
+    "cells": 21
+  },
+  {
+    "file": "notebooks/03_rnn_lstm_gru.ipynb",
+    "title": "03. Model urutan: RNN, LSTM, dan GRU",
+    "cells": 19
+  },
+  {
+    "file": "notebooks/04_dataset_teks.ipynb",
+    "title": "04. Dataset teks khusus dan prapemrosesan",
+    "cells": 21
+  },
+  {
+    "file": "notebooks/05_kode_modular.ipynb",
+    "title": "05. Memisahkan kode menjadi modul Python",
+    "cells": 19
+  },
+  {
+    "file": "notebooks/06_transfer_learning.ipynb",
+    "title": "06. Pembelajaran transfer untuk teks",
+    "cells": 18
+  },
+  {
+    "file": "notebooks/07_pencatatan_eksperimen.ipynb",
+    "title": "07. Proyek 1: pencatatan eksperimen NLP",
+    "cells": 17
+  },
+  {
+    "file": "notebooks/08_attention_transformer.ipynb",
+    "title": "08. Proyek 2: implementasi attention dan Transformer",
+    "cells": 19
+  },
+  {
+    "file": "notebooks/09_aplikasi_sentimen.ipynb",
+    "title": "09. Proyek 3: aplikasi prediksi sentimen",
+    "cells": 18
+  },
+  {
+    "file": "notebooks/10_bert_data_nyata.ipynb",
+    "title": "10. Data nyata dan fine-tuning BERT kecil",
+    "cells": 15
+  }
+]

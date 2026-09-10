@@ -1,5 +1,10 @@
 # Learn PyTorch for Deep Learning
 
+## Jalur pembelajaran NLP berbahasa Indonesia
+
+Tersedia materi pendamping dengan seluruh studi kasus berbasis teks: **[PyTorch untuk NLP](nlp/README.md)**. Jalur ini berisi 10 notebook inti dari tensor hingga aplikasi sentimen, ditambah 1 notebook data nyata dan fine-tuning BERT kecil. Materi menyertakan kode modular, latihan dan pembahasan, serta catatan verifikasi. Lihat README NLP untuk cakupan data sintetis dan status pengujian.
+
+
 Welcome to the [Zero to Mastery Learn PyTorch for Deep Learning course](https://dbourke.link/ZTMPyTorch), the second best place to learn PyTorch on the internet (the first being the [PyTorch documentation](https://pytorch.org/docs/stable/index.html)).
 
 * **Update April 2023:** New [tutorial for PyTorch 2.0](https://www.learnpytorch.io/pytorch_2_intro/) is live! And because PyTorch 2.0 is an additive (new features) and backward-compatible release, all previous course materials will *still* work with PyTorch 2.0.
@@ -291,3 +296,4 @@ Almost daily updates of what's happening.
 * 23, 24 Oct 2021 - update 00 and 01 notebooks with more outline/code
 * 20 Oct 2021 - add v0 outlines for 01 and 02, add rough outline of course to README, this course will focus on less but better 
 * 19 Oct 2021 - Start repo 🔥, add fundamentals notebook draft v0
+
